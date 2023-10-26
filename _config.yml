@@ -2,7 +2,8 @@ title: Lunar Store Guidelines
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://Lunar.github.io/test/
+url: https://mattgamer6660.github.io/test/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+color_scheme: dark
