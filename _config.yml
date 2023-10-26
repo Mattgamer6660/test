@@ -13,6 +13,6 @@ callouts:
   warning:
     title: Warning
     color: red
-    
-{: .warning }
-A paragraph...
+    > {: .warning }
+  A paragraph
+
