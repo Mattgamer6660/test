@@ -11,8 +11,7 @@ color_scheme: dark
 
 callouts:
   warning:
-    title: Warning
     color: red
+
     > {: .warning }
   A paragraph
-
