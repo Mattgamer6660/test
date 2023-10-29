@@ -3,7 +3,7 @@ title: Home
 layout: default
 nav_order: 1
 ---
-# Lunar Staff Guidelines
+# Lunar Store Documentation
 ## Introduction
 Lunar is a up and coming store-based game that provides a near realistic shopping experience!
 This guide will teach you what to do as a staff member and the games rules!
