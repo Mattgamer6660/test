@@ -57,7 +57,6 @@ nav_order: 2
 | Action       | Punishment |
 |:-------------|:------------------|
 | Lack of grammar        | Verbal Warning > Demotion |
-| Disrespecting a          | Permanent Ban |
 | Abusing the Detain tool           | Blacklist |
 | Disrespecting a SR          | Warning > Demotion |
 
