@@ -12,3 +12,5 @@ color_scheme: lunar
 callouts:
   warning:
     color: red
+ important:
+    color: blue
