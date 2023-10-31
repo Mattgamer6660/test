@@ -73,7 +73,7 @@ nav_order: 2
 
 Not finished yet!
 {: .label .label-yellow }
-
+hi
 ### Electronic Department Checkouts
 
 Not finished yet!
